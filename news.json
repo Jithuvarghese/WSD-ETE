@@ -1,0 +1,68 @@
+[
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Global Economic Summit 2024",
+        "description": "Leaders from around the world gather to discuss economic strategies.",
+        "url": "https://www.bbc.com/news/business-2024/summit",
+        "urlToImage": "https://cdn.bbc.com/news/images/summit.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the Global Economic Summit happening globally."
+    },
+    {
+        "id": "cnn-news",
+        "name": "CNN News",
+        "author": "John Doe",
+        "title": "Technological Advancements in AI",
+        "description": "Exploring the latest breakthroughs in artificial intelligence.",
+        "url": "https://www.cnn.com/tech/2024/ai-advancements",
+        "urlToImage": "https://cdn.cnn.com/tech/images/ai-advancements.jpg",
+        "publishedAt": "2024-09-07T08:15:00Z",
+        "content": "Full article content discussing the latest advancements in AI technology."
+    },
+    {
+        "id": "al-jazeera",
+        "name": "Al Jazeera",
+        "author": "Ahmed Khan",
+        "title": "Middle East Peace Talks Progress",
+        "description": "Recent developments in peace negotiations across the Middle East.",
+        "url": "https://www.aljazeera.com/news/2024/middle-east-peace",
+        "urlToImage": "https://cdn.aljazeera.com/news/images/middle-east-peace.jpg",
+        "publishedAt": "2024-09-06T12:30:00Z",
+        "content": "Detailed coverage of the progress made in peace talks in the Middle East."
+    },
+    {
+        "id": "reuters",
+        "name": "Reuters",
+        "author": "Emily Clark",
+        "title": "Climate Change Initiatives Worldwide",
+        "description": "An overview of global efforts to combat climate change.",
+        "url": "https://www.reuters.com/environment/2024/climate-initiatives",
+        "urlToImage": "https://cdn.reuters.com/environment/images/climate-initiatives.jpg",
+        "publishedAt": "2024-09-05T09:45:00Z",
+        "content": "Comprehensive analysis of international climate change initiatives."
+    },
+    {
+        "id": "the-verge",
+        "name": "The Verge",
+        "author": "Michael Lee",
+        "title": "Innovations in Renewable Energy",
+        "description": "New technologies driving the renewable energy sector forward.",
+        "url": "https://www.theverge.com/energy/2024/renewable-innovations",
+        "urlToImage": "https://cdn.theverge.com/energy/images/renewable-innovations.jpg",
+        "publishedAt": "2024-09-04T14:10:00Z",
+        "content": "In-depth look at the latest innovations in renewable energy technologies."
+    },
+    {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "author": "Sarah Johnson",
+        "title": "Startups to Watch in 2024",
+        "description": "A spotlight on promising startups making waves this year.",
+        "url": "https://www.techcrunch.com/startups/2024/watch",
+        "urlToImage": "https://cdn.techcrunch.com/startups/images/watch-2024.jpg",
+        "publishedAt": "2024-09-03T11:25:00Z",
+        "content": "Profiles of innovative startups that are set to make significant impacts in 2024."
+    }
+]
